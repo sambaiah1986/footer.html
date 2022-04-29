@@ -1,1 +1,1 @@
-# samba/footer.html
+# sambasingu/footer.html
